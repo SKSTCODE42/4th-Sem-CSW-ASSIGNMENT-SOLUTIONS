@@ -11,7 +11,6 @@ class Process {
         this.remainingTime = burstTime;
     }
 }
-
 public class q3 {
     public static void main(String[] args) {
         try (Scanner Scanner = new Scanner(System.in)) {
