@@ -17,7 +17,6 @@ public class q11 {
         }
         return maxSum;
     }
-
     public static void main(String[] args) {
         int[] arr = { 4, 3, 6, 8, 2, 7 };
         System.out.println("Maximum sum: " + maxSum(arr));
