@@ -28,7 +28,6 @@ public class q4 {
         }
         return stack.pop();
     }
-
     public static void main(String[] args) {
         String postfix = "53+82-";
         int result = evaluatePostfix(postfix);
