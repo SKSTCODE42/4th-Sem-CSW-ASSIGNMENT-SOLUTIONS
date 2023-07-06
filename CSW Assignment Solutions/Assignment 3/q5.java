@@ -9,7 +9,6 @@ public class q5 {
         sortArray(arr1, arr2);
         System.out.println(Arrays.toString(arr1));
     }
-
     public static void sortArray(int[] arr1, int[] arr2) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < arr2.length; i++) {
