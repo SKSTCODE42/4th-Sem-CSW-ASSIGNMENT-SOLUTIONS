@@ -31,7 +31,6 @@ public class q13 {
         result += Math.max(sum1, sum2);
         return result;
     }
-
     public static void main(String[] args) {
         int[] arr1 = { 2, 3, 7, 10, 12 };
         int[] arr2 = { 1, 5, 7, 8 };
