@@ -46,6 +46,7 @@ public class q3 {
                     currentTime++;
                     continue;
                 }
+                
                 Process currentProcess = pq.poll();
                 currentProcess.remainingTime--;
                 currentTime++;
