@@ -1,5 +1,4 @@
 import java.util.HashSet;
-
 public class q4 {
     public static void main(String[] args) {
         // Create a hash set of type string
