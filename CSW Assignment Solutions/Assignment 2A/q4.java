@@ -1,5 +1,4 @@
 import java.util.Stack;
-
 public class q4 {
     public static int evaluatePostfix(String postfix) {
         Stack<Integer> stack = new Stack<Integer>();
