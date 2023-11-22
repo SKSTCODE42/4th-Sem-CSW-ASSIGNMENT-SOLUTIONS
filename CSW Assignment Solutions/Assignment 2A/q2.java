@@ -11,7 +11,6 @@ class Student {
         this.age = age;
         this.mark = mark;
     }
-
     public String getName() {
         return name;
     }
