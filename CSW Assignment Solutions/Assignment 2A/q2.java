@@ -36,7 +36,6 @@ class Student {
         return false;
     }
 }
-
 public class q2 {
     public static void main(String[] args) {
         LinkedList<Student> list = new LinkedList<Student>();
