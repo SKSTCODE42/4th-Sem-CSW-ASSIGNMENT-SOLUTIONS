@@ -7,7 +7,6 @@ public class q2 {
         sortZeroOneTwo(arr);
         System.out.println("Sorted array: " + Arrays.toString(arr));
     }
-
     public static void sortZeroOneTwo(int[] arr) {
         int low = 0;
         int mid = 0;
