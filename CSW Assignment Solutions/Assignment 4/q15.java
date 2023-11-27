@@ -19,7 +19,6 @@ public class q15 {
         }
         System.out.println("No triplet found.");
     }
-
     public static void main(String[] args) {
         int[] arr = { 1, 4, 2, 6, 3, 5, 8, 7 };
         int sum = 12;
