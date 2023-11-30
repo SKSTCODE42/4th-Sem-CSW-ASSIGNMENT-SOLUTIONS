@@ -6,7 +6,7 @@ public class q4 {
             char ch = postfix.charAt(i);
             if (Character.isDigit(ch)) {
                 stack.push(ch - '0');
-            } 
+            }
             else {
                 int operand2 = stack.pop();
                 int operand1 = stack.pop();
