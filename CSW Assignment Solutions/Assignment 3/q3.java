@@ -5,7 +5,6 @@ public class q3 {
         int count = minimumSwaps(arr, k);
         System.out.println("Minimum swaps required: " + count);
     }
-
     public static int minimumSwaps(int[] arr, int k) {
         int n = arr.length;
         int count = 0;
