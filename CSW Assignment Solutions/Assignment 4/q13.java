@@ -22,7 +22,6 @@ public class q13 {
         }
         System.out.println("Minimum difference pair: (" + pair1 + ", " + pair2 + ")");
     }
-
     public static void main(String[] args) {
         int[] arr1 = { 1, 3, 5, 11, 17 };
         int[] arr2 = { 9, 10, 11, 13, 14 };
