@@ -4,7 +4,6 @@ public class q6 {
         int oddElement = findOddElement(arr);
         System.out.println("The element that appears odd number of times is: " + oddElement);
     }
-
     public static int findOddElement(int[] arr) {
         int result = 0;
         for (int i = 0; i < arr.length; i++) {
