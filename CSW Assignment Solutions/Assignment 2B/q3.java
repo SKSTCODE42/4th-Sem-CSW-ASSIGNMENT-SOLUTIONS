@@ -3,7 +3,6 @@ class Process {
     int pid;
     int burstTime;
     int remainingTime;
-
     public Process(int pid, int burstTime) {
         this.pid = pid;
         this.burstTime = burstTime;
