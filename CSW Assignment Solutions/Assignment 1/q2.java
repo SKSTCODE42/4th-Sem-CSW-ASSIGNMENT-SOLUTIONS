@@ -11,7 +11,6 @@ public class q2 {
         }
         return binary.reverse().toString();
     }
-
     public static void main(String[] args) {
         int decimal = 15;
         String binary = decimalToBinary(decimal);
