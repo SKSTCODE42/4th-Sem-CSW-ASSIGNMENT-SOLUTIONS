@@ -15,7 +15,6 @@ public class q5 {
     public void addEdge(int v, int w) {
         adj.get(v).add(w);
     }
-
     public void BFS(int start) {
         boolean[] visited = new boolean[V];
         ArrayDeque<Integer> queue = new ArrayDeque<Integer>();
