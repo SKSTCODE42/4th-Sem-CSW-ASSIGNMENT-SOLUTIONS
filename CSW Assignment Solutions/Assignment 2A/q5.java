@@ -11,7 +11,6 @@ public class q5 {
             adj.add(new ArrayList<Integer>());
         }
     }
-
     public void addEdge(int v, int w) {
         adj.get(v).add(w);
     }
