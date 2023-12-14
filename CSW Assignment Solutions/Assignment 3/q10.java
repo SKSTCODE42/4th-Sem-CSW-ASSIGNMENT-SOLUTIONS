@@ -17,7 +17,6 @@ public class q10 {
     public int findMax() {
         return Collections.max(integerList);
     }
-
     public double findMedian() {
         Collections.sort(integerList);
         int size = integerList.size();
