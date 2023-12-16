@@ -13,7 +13,6 @@ public class q12 {
         }
         return maxDist;
     }
-
     private static int findFirstSmaller(int[] arr, int end, int val) {
         int start = 0;
         while (start < end) {
