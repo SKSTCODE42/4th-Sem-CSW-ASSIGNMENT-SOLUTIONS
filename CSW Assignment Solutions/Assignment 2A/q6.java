@@ -15,7 +15,6 @@ public class q6 {
     public void addEdge(int v, int w) {
         adj.get(v).add(w);
     }
-
     public void DFS(int start) {
         boolean[] visited = new boolean[V];
         Stack<Integer> stack = new Stack<Integer>();
