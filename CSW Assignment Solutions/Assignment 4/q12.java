@@ -6,7 +6,6 @@ public class q12 {
         int[] minDiffPair = findMinDifferencePair(arr);
         System.out.println("Minimum difference pair: " + Arrays.toString(minDiffPair));
     }
-
     public static int[] findMinDifferencePair(int[] arr) {
         int n = arr.length;
         if (n < 2) {
