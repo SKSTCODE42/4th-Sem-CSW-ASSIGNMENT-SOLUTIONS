@@ -2,7 +2,8 @@ import java.util.HashSet;
 import java.util.Scanner;
 
 public class q7 {
-    
+
+
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             HashSet<Integer> set = new HashSet<Integer>();
