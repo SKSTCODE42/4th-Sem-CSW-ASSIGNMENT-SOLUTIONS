@@ -5,7 +5,6 @@ public class q15 {
         }
         return findGCD(b, a % b);
     }
-
     public static void main(String[] args) {
         int a = 15;
         int b = 10;
