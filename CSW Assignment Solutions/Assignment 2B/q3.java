@@ -56,7 +56,7 @@ public class q3 {
                     }
                 } else {
                     pq.add(currentProcess);
-                }
+                } 
             }
             System.out.println("\nTotal time taken: " + currentTime);
         }
