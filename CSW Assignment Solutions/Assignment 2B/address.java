@@ -10,7 +10,6 @@ class address {
         this.at = at;
         this.post = post;
     }
-
     public String getPlotNo() {
         return plotNo;
     }
