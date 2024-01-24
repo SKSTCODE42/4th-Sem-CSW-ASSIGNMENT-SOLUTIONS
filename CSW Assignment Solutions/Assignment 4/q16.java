@@ -1,10 +1,7 @@
 import java.util.Arrays;
 
 public class q16 {
-    /**
-     * @param arr
-     * @return
-     */
+
     public static int countTriangles(int[] arr) {
         int n = arr.length;
         int count = 0;
