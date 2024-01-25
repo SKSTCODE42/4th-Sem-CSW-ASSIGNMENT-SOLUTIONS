@@ -10,7 +10,6 @@ public class q1 {
         }
         return true;
     }
-
     public static void main(String[] args) {
         int num = 17;
         if (isPrime(num)) {
