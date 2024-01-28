@@ -8,7 +8,6 @@ public class q3 {
         }
         return reversed;
     }
-
     public static void main(String[] args) {
         int number = 12345;
         int reversed = reverse(number);
