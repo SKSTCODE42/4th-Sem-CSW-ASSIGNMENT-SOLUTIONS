@@ -13,7 +13,6 @@ public class q10 {
     public int findMin() {
         return Collections.min(integerList);
     }
-
     public int findMax() {
         return Collections.max(integerList);
     }
