@@ -23,7 +23,6 @@ public class q10 {
         }
         System.out.println("No elements found with sum " + value);
     }
-
     public static void main(String[] args) {
         int[] arr = { 4, 2, 5, 7, 8, 1 };
         int value = 9;
