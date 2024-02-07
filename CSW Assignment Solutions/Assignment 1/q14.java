@@ -10,7 +10,6 @@ public class q14 {
                 + to);
         move(n - 1, aux, to, from);
     }
-
     public static void main(String[] args) {
         int n = 3;
         move(n, 'A', 'C', 'B');
