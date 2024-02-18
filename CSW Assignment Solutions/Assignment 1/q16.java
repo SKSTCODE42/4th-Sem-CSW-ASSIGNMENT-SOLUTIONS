@@ -12,7 +12,6 @@ public class q16 {
             return binarySearch(arr, low, mid - 1, x);
         }
     }
-
     public static void main(String[] args) {
         int[] arr = { 2, 5, 8, 12, 16, 23, 38, 56, 72, 91 };
         int x = 23;
