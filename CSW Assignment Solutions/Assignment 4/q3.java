@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class q3 {
     public static void main(String[] args) {
         List<Integer> listWithDuplicates = new ArrayList<>(Arrays.asList(1, 2, 3, 1, 4, 2, 5));
