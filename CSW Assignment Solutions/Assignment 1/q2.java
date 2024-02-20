@@ -3,7 +3,6 @@ public class q2 {
         if (decimal == 0) {
             return "0";
         }
-        
         StringBuilder binary = new StringBuilder();
         while (decimal > 0) {
             int rem = decimal % 2;
