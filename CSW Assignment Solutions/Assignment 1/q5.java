@@ -8,7 +8,6 @@ public class q5 {
         reverse(arr, 0, k - 1);
         reverse(arr, k, n - 1);
     }
-
     public static void reverse(int[] arr, int start, int end) {
         while (start < end) {
             int temp = arr[start];
