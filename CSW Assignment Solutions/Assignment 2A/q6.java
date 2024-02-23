@@ -30,7 +30,6 @@ public class q6 {
             }
         }
     }
-
     public static void main(String[] args) {
         q6 g = new q6(6);
         g.addEdge(0, 1);
