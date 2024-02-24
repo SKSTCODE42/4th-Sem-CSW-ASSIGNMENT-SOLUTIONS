@@ -1,10 +1,6 @@
 import java.util.Arrays;
 
 public class q10 {
-    /**
-     * @param arr
-     * @param value
-     */
     public static void findSum(int[] arr, int value) {
         int n = arr.length;
         Arrays.sort(arr);
