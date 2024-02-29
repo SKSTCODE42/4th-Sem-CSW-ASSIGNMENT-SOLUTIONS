@@ -21,7 +21,6 @@ class address {
     public String getPost() {
         return post;
     }
-
     public static void main(String[] args) {
         // Create a TreeMap with keys as names and values as addresses
         TreeMap<String, address> addressBook = new TreeMap<>();
