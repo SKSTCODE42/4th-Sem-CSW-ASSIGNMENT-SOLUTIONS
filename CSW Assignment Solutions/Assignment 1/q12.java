@@ -25,7 +25,6 @@ public class q12 {
         }
         return start;
     }
-
     public static void main(String[] args) {
         int[] arr = { 3, 5, 4, 2, 6, 1 };
         System.out.println("Maximum distance: " + maxDistance(arr));
