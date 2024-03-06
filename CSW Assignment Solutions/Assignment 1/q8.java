@@ -11,7 +11,6 @@ public class q8 {
             }
         }
     }
-
     public static void main(String[] args) {
         int[] arr = { 2, 1, 4, 0, 5, 3 };
         System.out.println("Original array: " + Arrays.toString(arr));
