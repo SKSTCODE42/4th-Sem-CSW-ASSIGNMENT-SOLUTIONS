@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class q5 {
     public static void rotate(int[] arr, int k) {
         int n = arr.length;
