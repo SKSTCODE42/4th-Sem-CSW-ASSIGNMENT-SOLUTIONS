@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class q8 {
     public static void arrange(int[] arr) {
         int n = arr.length;
