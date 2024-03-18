@@ -14,7 +14,6 @@ public class q9 {
         }
         return n + 1;
     }
-
     public static void main(String[] args) {
         int[] arr = { 3, 1, -1, 4, 2, 5, 7 };
         int smallest = findSmallesPositiveMissing(arr);
