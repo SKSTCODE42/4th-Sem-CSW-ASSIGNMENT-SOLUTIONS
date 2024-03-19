@@ -3,9 +3,7 @@ import java.util.*;
 public class q10 {
     private List<Integer> integerList;
 
-    /**
-     * @param integerList
-     */
+
     public void q10(final List<Integer> integerList) {
         this.integerList = integerList;
     }
