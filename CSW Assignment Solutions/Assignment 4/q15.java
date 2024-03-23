@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class q15 {
     public static void findTriplet(int[] arr, int sum) {
         Arrays.sort(arr); // Sort the array in ascending order
