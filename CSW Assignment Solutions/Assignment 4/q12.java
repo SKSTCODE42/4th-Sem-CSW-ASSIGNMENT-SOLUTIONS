@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class q12 {
     public static void main(String[] args) {
         int[] arr = { 2, 5, 9, 15, 19 };
