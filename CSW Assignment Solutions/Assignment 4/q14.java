@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class q14 {
     public static void findTriplet(int[] arr) {
         Arrays.sort(arr); // Sort the array to use two pointer approach
