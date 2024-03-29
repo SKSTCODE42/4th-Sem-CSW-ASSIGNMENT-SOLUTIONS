@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class q10 {
     public static void findSum(int[] arr, int value) {
         int n = arr.length;
