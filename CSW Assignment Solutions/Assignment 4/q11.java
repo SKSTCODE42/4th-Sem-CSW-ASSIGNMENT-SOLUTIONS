@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class q11 {
     public static void findPair(int[] x, int[] y, int value) {
         Set<Integer> set = new HashSet<>();
