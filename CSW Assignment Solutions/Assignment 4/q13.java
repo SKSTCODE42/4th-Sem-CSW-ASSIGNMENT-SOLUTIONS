@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class q13 {
     public static void findMinimumDifferencePair(int[] arr1, int[] arr2) {
         Arrays.sort(arr1);
