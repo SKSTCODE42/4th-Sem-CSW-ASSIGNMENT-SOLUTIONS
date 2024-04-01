@@ -1,5 +1,4 @@
 public class q7 {
-   
     public static void findOddOccurrence(int[] arr) {
         int xor = 0;
         for (int i = 0; i < arr.length; i++) {
