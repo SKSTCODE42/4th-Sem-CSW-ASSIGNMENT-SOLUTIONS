@@ -10,7 +10,7 @@ public class q12 {
         if (n < 2) {
             throw new IllegalArgumentException("Array should have at least two elements");
         }
-        Arrays.sort(arr); // Sort the array
+        Arrays.sort(arr); 
         int minDiff = Integer.MAX_VALUE;
         int[] minDiffPair = new int[2];
         for (int i = 1; i < n; i++) {
