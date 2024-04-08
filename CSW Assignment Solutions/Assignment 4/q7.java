@@ -13,6 +13,6 @@ public class q7 {
                 num2 ^= arr[i];
             }
         }
-        System.out.println("The two elements that appear odd number of times are: " + num1 + " and " + num2);
+       System.out.println("The two elements that appear odd number of times are: " + num1 + " and " + num2);
     }
 }
